@@ -3,7 +3,7 @@
    ![](https://komarev.com/ghpvc/?username=gjj2019&color=brightgreen&style=flat)
 
 - 🔭 I’m currently working on Some Apps
-- 🌱 I’m currently learning Deno, GraphQL.
+- 🌱 I’m currently learning Go.
 - 💬 Ask me about Flutter, Firebase, Typescript.
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/gaurav-jajoo-9847b01a5/) [Twitter](https://twitter.com/gjj2019) [Facebook](https://www.facebook.com/gaurav.jajoo.71) 
 - 😄 Pronouns: He/His
